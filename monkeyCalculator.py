@@ -5,7 +5,7 @@ def calculateTime():
     monkey_two = input("Is the second monkey smiling?: ")
 
     if monkey_one == monkey_two:
-        print("Uh oh! We're in trouble!")
+        print("Uh Oh! We're in trouble!")
     else:
         print("Yay! We're going to have a good day!")
 
